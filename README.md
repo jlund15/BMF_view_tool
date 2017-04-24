@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+BMFViewTool::Renderer.copyright 'Big Mouth Frog Development', " All rights reserved"
+```
 
 ## Development
 
